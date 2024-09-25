@@ -1,0 +1,4 @@
+- 👋 Hi, Hi! I'm Jeramic Aringo
+- 👀 I’m a data analyst passionate about solving complex problems with data.
+- 🌱 I’m Currently on the path to becoming a Machine Learning Engineer
+- 💞️ I’m open to collaborate on real time projects in all sectors
